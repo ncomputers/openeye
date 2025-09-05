@@ -1,0 +1,8 @@
+source:
+  uri: "rtsp://your_rtsp_url_here"
+
+infer:
+  config: "/app/models/your_model.engine"
+
+tracker:
+  config: "/app/configs/tracker_config.yml"
